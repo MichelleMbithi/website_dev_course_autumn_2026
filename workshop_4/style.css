@@ -65,7 +65,7 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #45a049;
 }
-
+/*css transitions */
 .transition-button {
     background-color: lightblue;
     padding: 10px 20px;
@@ -126,7 +126,7 @@ input[type="submit"]:hover {
     top: -10px;
     color: brown;
 }
-
+/* Grid and Flexbox styling */
 .grid-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
